@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfCarCompanyDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CarCompanyDetails>
+    <Brand>Audi</Brand>
+    <Model>Model1</Model>
+    <Mileage>100</Mileage>
+    <Price>10000</Price>
+    <Availablity>Yes</Availablity>
+  </CarCompanyDetails>
+  <CarCompanyDetails>
+    <Brand>BMW</Brand>
+    <Model>20</Model>
+    <Mileage>130</Mileage>
+    <Price>1000000</Price>
+    <Availablity>YES</Availablity>
+  </CarCompanyDetails>
+  <CarCompanyDetails>
+    <Brand>VW</Brand>
+    <Model>20202</Model>
+    <Mileage>300</Mileage>
+    <Price>300</Price>
+    <Availablity>YES</Availablity>
+  </CarCompanyDetails>
+</ArrayOfCarCompanyDetails>

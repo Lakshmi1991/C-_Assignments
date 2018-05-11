@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<arrayofLogins>
+<login>
+<user>Admin</user>
+<pass>adminpass</pass>
+</login>
+<login>
+<user>user</user>
+<pass>userpass</pass>
+</login>
+</arrayofLogins>

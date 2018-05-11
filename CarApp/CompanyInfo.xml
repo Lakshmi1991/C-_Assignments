@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfCompanyInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CompanyInfo>
+    <Name>Maruthi</Name>
+    <address>Bangalore</address>
+    <Phone>123123</Phone>
+  </CompanyInfo>
+  <CompanyInfo>
+    <Name>Zen</Name>
+    <address>Jayanagar</address>
+    <Phone>34234234</Phone>
+  </CompanyInfo>
+</ArrayOfCompanyInfo>
